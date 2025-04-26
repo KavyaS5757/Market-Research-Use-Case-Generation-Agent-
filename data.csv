@@ -1,0 +1,195 @@
+Company,Industry
+Google,Technology
+Amazon,Retail
+Tesla,Automotive
+Pfizer,Pharmaceuticals
+Walmart,Retail
+JPMorgan Chase,Banking
+Ford,Automotive
+Netflix,Entertainment
+Microsoft,Technology
+Apple,Technology
+Meta (Facebook),Technology
+IBM,Technology
+Intel,Technology
+Samsung,Technology
+Oracle,Technology
+Dell,Technology
+Johnson & Johnson,Healthcare
+Toyota,Automotive
+Volkswagen,Automotive
+General Motors,Automotive
+BMW,Automotive
+Audi,Automotive
+Mercedes-Benz,Automotive
+Uber,Transportation
+Lyft,Transportation
+Airbnb,Hospitality
+Booking.com,Hospitality
+Marriott,Hospitality
+Hilton,Hospitality
+ExxonMobil,Energy
+Chevron,Energy
+Shell,Energy
+BP,Energy
+TotalEnergies,Energy
+Nestle,Food & Beverage
+Coca-Cola,Food & Beverage
+PepsiCo,Food & Beverage
+Kraft Heinz,Food & Beverage
+Unilever,Consumer Goods
+Procter & Gamble,Consumer Goods
+L'Oreal,Consumer Goods
+Nike,Retail
+Adidas,Retail
+Zara,Retail
+H&M,Retail
+Alibaba,Retail
+Tencent,Technology
+Baidu,Technology
+Huawei,Technology
+TSMC,Semiconductors
+AMD,Semiconductors
+NVIDIA,Semiconductors
+ASML,Semiconductors
+SpaceX,Aerospace
+Boeing,Aerospace
+Airbus,Aerospace
+Lockheed Martin,Aerospace & Defense
+Northrop Grumman,Aerospace & Defense
+Raytheon,Aerospace & Defense
+Moderna,Pharmaceuticals
+BioNTech,Pharmaceuticals
+AstraZeneca,Pharmaceuticals
+GSK,Pharmaceuticals
+Sanofi,Pharmaceuticals
+Roche,Healthcare
+Novartis,Healthcare
+CVS Health,Healthcare
+Walgreens,Healthcare
+Siemens,Manufacturing
+GE,Manufacturing
+Honeywell,Manufacturing
+3M,Manufacturing
+ABB,Manufacturing
+Schneider Electric,Manufacturing
+Accenture,Consulting
+Capgemini,Consulting
+Infosys,IT Services
+Wipro,IT Services
+Tata Consultancy,IT Services
+Cognizant,IT Services
+EY (Ernst & Young),Consulting
+KPMG,Consulting
+Deloitte,Consulting
+PWC,Consulting
+Goldman Sachs,Banking
+Morgan Stanley,Banking
+Bank of America,Banking
+Citigroup,Banking
+Wells Fargo,Banking
+Charles Schwab,Financial Services
+Visa,Financial Services
+Mastercard,Financial Services
+PayPal,Financial Services
+Stripe,Financial Services
+Square,Financial Services
+Robinhood,Financial Services
+HSBC,Banking
+Barclays,Banking
+Deutsche Bank,Banking
+BNP Paribas,Banking
+Sony,Entertainment
+Disney,Entertainment
+Universal Studios,Entertainment
+Paramount Global,Entertainment
+Warner Bros. Discovery,Entertainment
+TikTok (Bytedance),Entertainment
+Zoom,Technology
+Slack,Technology
+Shopify,Retail Tech
+Salesforce,SaaS
+ServiceNow,SaaS
+Workday,SaaS
+Snowflake,Cloud Computing
+Databricks,Cloud Computing
+Cloudflare,Cloud Computing
+Palantir,Data Analytics
+Splunk,Data Analytics
+MongoDB,Data Analytics
+Red Hat,Technology
+Atlassian,Technology
+GitHub,Technology
+DocuSign,Technology
+Dropbox,Technology
+Zillow,Real Estate Tech
+Redfin,Real Estate Tech
+Compass,Real Estate Tech
+Shopify,E-commerce
+Etsy,E-commerce
+eBay,E-commerce
+MercadoLibre,E-commerce
+Flipkart,E-commerce
+Paytm,Fintech
+Klarna,Fintech
+Affirm,Fintech
+Adyen,Fintech
+Revolut,Fintech
+Nubank,Fintech
+Plaid,Fintech
+Toast,Fintech
+Square Enix,Entertainment (Gaming)
+Electronic Arts,Entertainment (Gaming)
+Activision Blizzard,Entertainment (Gaming)
+Ubisoft,Entertainment (Gaming)
+Take-Two Interactive,Entertainment (Gaming)
+Epic Games,Entertainment (Gaming)
+Riot Games,Entertainment (Gaming)
+Twitch,Entertainment (Streaming)
+Roku,Entertainment (Streaming)
+Hulu,Entertainment (Streaming)
+HBO Max,Entertainment (Streaming)
+Coursera,Education
+edX,Education
+Udemy,Education
+Duolingo,Education
+Khan Academy,Education
+Chegg,Education
+Pearson,Education
+McGraw-Hill,Education
+LinkedIn,Social Networking
+Twitter (X),Social Networking
+Pinterest,Social Networking
+Snap Inc.,Social Networking
+Bumble,Social Networking
+Tinder (Match Group),Social Networking
+Yelp,Social Networking
+Tripadvisor,Social Networking
+Uber Eats,Food Delivery
+DoorDash,Food Delivery
+Grubhub,Food Delivery
+Instacart,Food Delivery
+Gopuff,Food Delivery
+Swiggy,Food Delivery
+Zomato,Food Delivery
+FedEx,Logistics
+UPS,Logistics
+DHL,Logistics
+Maersk,Logistics
+Cargill,Agriculture
+Archer Daniels Midland,Agriculture
+John Deere,Agriculture
+Syngenta,Agriculture
+Bayer Crop Science,Agriculture
+Moderna,Pharmaceuticals
+CVS,Healthcare
+Walgreens Boots Alliance,Healthcare
+UnitedHealth Group,Healthcare
+Anthem,Healthcare
+Cigna,Healthcare
+Humana,Healthcare
+Aetna,Healthcare
+Biogen,Pharmaceuticals
+Regeneron,Pharmaceuticals
+Amgen,Pharmaceuticals
+Gilead Sciences,Pharmaceuticals

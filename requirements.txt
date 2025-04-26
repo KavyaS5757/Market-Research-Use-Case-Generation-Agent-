@@ -1,0 +1,9 @@
+streamlit
+openai
+requests
+python-dotenv
+transformers
+fpdf
+serpapi
+kaggle
+PyMuPDF
