@@ -4,6 +4,6 @@ requests
 python-dotenv
 transformers
 fpdf
-serpapi
+serpapi==2.2.0 
 kaggle
 PyMuPDF
