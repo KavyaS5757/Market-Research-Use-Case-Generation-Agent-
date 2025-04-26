@@ -1,5 +1,6 @@
 # agents/market_trend_agent.py
-from serpapi import GoogleSearch
+import serpapi
+from serpapi.google_search_results import GoogleSearch
 import os
 from dotenv import load_dotenv
 # Load the .env file
