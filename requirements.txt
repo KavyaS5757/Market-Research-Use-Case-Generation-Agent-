@@ -4,7 +4,7 @@ requests
 python-dotenv
 transformers
 fpdf
-serpapi==2.2.0 
+git+https://github.com/serpapi/serpapi.git
 kaggle
 PyMuPDF
 python==3.9.7 
