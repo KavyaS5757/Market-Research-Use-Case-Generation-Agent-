@@ -7,3 +7,4 @@ fpdf
 serpapi==2.2.0 
 kaggle
 PyMuPDF
+python==3.9.7 
